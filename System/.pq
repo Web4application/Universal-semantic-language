@@ -8,3 +8,15 @@ Q LANGUAGE STACK
 6. Execution Runtime
 7. Blockchain/Consensus Layer
 8. CLI + API Gateway
+Q = Semantic Operating Layer
+
+NOT:
+- just a language
+
+BUT:
+- interpreter
+- AI engine
+- file understanding system
+- plugin ecosystem
+- execution runtime
+- blockchain-aware coordination layer
